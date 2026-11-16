@@ -1,0 +1,6 @@
+Lizzy Smith:42:Portland
+Elizabeth Jones 37 Seattle
+Lizzy Chen:29:Beaverton
+Mark Thompson:51:Salem
+Ana Lopez 33 Tigard
+Lizzy Park 45:Eugene
